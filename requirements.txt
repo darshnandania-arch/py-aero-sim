@@ -1,0 +1,10 @@
+# Core numerical stack
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+
+# Live telemetry dashboard (optional; the simulator and tests run without it)
+pygame>=2.5
+
+# Testing
+pytest>=8.0
